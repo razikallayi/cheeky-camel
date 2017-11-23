@@ -1,0 +1,46 @@
+﻿/* Limit image width to avoid overflow the container */
+#CropperImage {
+  max-width: 100%; /* This rule is very important, please do not ignore this! */
+  max-height: 100%; /* This rule is very important, please do not ignore this! */
+}
+
+
+
+.login-page {
+
+  background-color: #3c2b2b;
+  padding-left: 0;
+  max-width: 360px;
+
+  margin: 8% auto;
+
+  overflow-x: hidden;
+
+/*  position: absolute;
+left: 50%;
+top: 35%;
+margin: -226px 0 0 -180px;*/
+
+}
+.table-wrapper {
+  overflow-x: scroll;
+}
+
+
+/* Progress Bars =============================== */
+.progress {
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  -ms-border-radius: 0;
+  border-radius: 0;
+  height: 22px; }
+
+
+.switch-two-way label .lever {
+    background-color: #9fa8da;
+}
+
+
+.switch-two-way label .lever:after {
+    background-color: #3f51b5;
+}

@@ -1,0 +1,45 @@
+﻿.theme-cheeky-camel .navbar {
+  background-color: #ddab30; }
+
+.theme-cheeky-camel .navbar-brand {
+  color: #fff; }
+  .theme-cheeky-camel .navbar-brand:hover {
+    color: #fff; }
+  .theme-cheeky-camel .navbar-brand:active {
+    color: #fff; }
+  .theme-cheeky-camel .navbar-brand:focus {
+    color: #fff; }
+
+.theme-cheeky-camel .nav > li > a {
+  color: #fff; }
+  .theme-cheeky-camel .nav > li > a:hover {
+    background-color: transparent; }
+  .theme-cheeky-camel .nav > li > a:focus {
+    background-color: transparent; }
+
+.theme-cheeky-camel .nav .open > a {
+  background-color: transparent; }
+  .theme-cheeky-camel .nav .open > a:hover {
+    background-color: transparent; }
+  .theme-cheeky-camel .nav .open > a:focus {
+    background-color: transparent; }
+
+.theme-cheeky-camel .bars {
+  color: #fff; }
+
+.theme-cheeky-camel .sidebar .menu .list li.active {
+  background-color: transparent; }
+  .theme-cheeky-camel .sidebar .menu .list li.active > :first-child i, .theme-cheeky-camel .sidebar .menu .list li.active > :first-child span {
+    color: #ddab30; }
+
+.theme-cheeky-camel .sidebar .menu .list .toggled {
+  background-color: transparent; }
+
+.theme-cheeky-camel .sidebar .menu .list .ml-menu {
+  background-color: transparent; }
+
+.theme-cheeky-camel .sidebar .legal {
+  background-color: #fff; }
+  .theme-cheeky-camel .sidebar .legal .copyright a {
+    color: #ddab30 !important; }
+

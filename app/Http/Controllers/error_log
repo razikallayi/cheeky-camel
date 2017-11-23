@@ -1,0 +1,2 @@
+[03-May-2017 08:18:32 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/whytecre/public_html/cheeky-camel/app/Http/Controllers/ApparelCategoryController.php on line 13
+[03-May-2017 08:18:34 UTC] PHP Fatal error:  Class 'App\Http\Controllers\Controller' not found in /home/whytecre/public_html/cheeky-camel/app/Http/Controllers/BrandController.php on line 13

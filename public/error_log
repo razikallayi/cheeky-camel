@@ -1,0 +1,2 @@
+[30-Jan-2017 05:04:31 UTC] PHP Fatal error:  Call to a member function shops() on null in /home/whytecre/public_html/cheeky-camel/app/Http/Controllers/MasterController.php on line 529
+[30-Jan-2017 05:04:36 UTC] PHP Fatal error:  Call to a member function shops() on null in /home/whytecre/public_html/cheeky-camel/app/Http/Controllers/MasterController.php on line 529
